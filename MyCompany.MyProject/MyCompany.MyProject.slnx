@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Server\MyCompany.MyProject.Server.csproj" DefaultStartup="true" />
+  <Project Path="Client\MyCompany.MyProject.Client.csproj" />
+  <Project Path="Shared\MyCompany.MyProject.Shared.csproj" />
+</Solution>
